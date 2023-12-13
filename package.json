@@ -1,0 +1,14 @@
+{
+  "name": "express-session-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js -w server.js -w public -w views -e html,css,js --delay 2.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
